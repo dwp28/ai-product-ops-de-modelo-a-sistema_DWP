@@ -5,7 +5,7 @@
 Este proyecto es una plataforma interactiva diseñada para transformar el despliegue de Inteligencia Artificial de un simple "experimento técnico" a un **sistema de producción rentable, seguro y gobernable**.
 
 ## 👤 Sobre el Autor
-Desarrollado por **[Tu Nombre/Usuario]**. 
+Desarrollado por **Daniel Willson**. 
 Soy un apasionado de la eficiencia operativa y la implementación estratégica de IA. Puedes encontrar más de mi trabajo y conectar conmigo en mis perfiles:
 
 * **GitHub:** [github.com/dwp28](https://github.com/dwp28)
