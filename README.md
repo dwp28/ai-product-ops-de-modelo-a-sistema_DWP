@@ -1,7 +1,5 @@
 # 🤖 AI Product Ops: De Modelo a Sistema
 
-[![Streamlit App](https://ai-appuct-ops-de-modelo-a-sistema-dwp-tgpchoqvpgkddd3gegoe4p.streamlit.app/)
-
 Este proyecto es una plataforma interactiva diseñada para transformar el despliegue de Inteligencia Artificial de un simple "experimento técnico" a un **sistema de producción rentable, seguro y gobernable**.
 
 ## 👤 Sobre el Autor
